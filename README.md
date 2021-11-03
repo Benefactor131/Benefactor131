@@ -9,9 +9,14 @@
 
 ### Languages, Tools, and Frameworks:
 [<img align="left" alt="C++" width="22px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />]
+[<img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
+[<img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/000000/css3.png" />]
+[<img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />]
 [<img align="left" alt="SQL Developer" width="22px" src="https://img.icons8.com/dusk/64/000000/sql.png" />]
+[<img align="left" alt="React" width="22px" src="https://img.icons8.com/office/16/000000/react.png" />]
+[<img align="left" alt="Next.js" width="22px" src="https://img.icons8.com/ios-filled/50/000000/circled-n.png" />]
+[<img align="left" alt="Chakra UI" width="22px" src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-flash-essentials-icongeek26-outline-colour-icongeek26.png"/>]
 [<img align="left" alt="Three.js" width="22px" src="https://img.icons8.com/fluency/48/000000/triforce.png" />]
-
 <br />
 
 ### Connect with me:
