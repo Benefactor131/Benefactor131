@@ -1,6 +1,6 @@
 ### 👋Hi there, I'm Bair Suimaliev
 
-## I am college student at the time, majoring in Computer Science!
+## 🧑‍💻I am college student at the time, majoring in Computer Science!
 - 🔭 I'm currently studying at Seneca College
 - 🌱 I’m currently learning C++, JS, React, Next.js, Three.js, Chakra UI
 - 💻 I’m looking to land a job or internship
