@@ -14,14 +14,14 @@
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img align="left" alt="SQL Developer" width="22px" src="https://img.icons8.com/dusk/64/000000/sql.png" />
 <img align="left" alt="React" width="22px" src="https://img.icons8.com/office/16/000000/react.png" />
-<img align="left" alt="Next.js" width="22px" src="https://img.icons8.com/dotty/80/000000/circled-n.png" />
+<img align="left" alt="Next.js" width="22px" src="https://img.icons8.com/color/48/000000/nfc-n.png" />
 <img align="left" alt="Chakra UI" width="22px" src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/000000/external-flash-essentials-icongeek26-outline-colour-icongeek26.png"/>
 <img align="left" alt="Three.js" width="22px" src="https://img.icons8.com/fluency/48/000000/triforce.png" />
 <br />
 
 ### Connect with me:
 [<img align="left" alt="bsuimaliev | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="bsuimaliev | Instagram" width="22px" src="<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="bsuimaliev | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
