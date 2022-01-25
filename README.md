@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: graduate college, and get my first work experience
 - ⚡ Fun fact: I love to play basketball and video games
 
-<a href="https://app.daily.dev/bsuimaliev"><img align="left" src="https://api.daily.dev/devcards/71d6cf8f83cb45c8b08ad6360fa48050.png?r=xvc" width="400" alt="Bair Suimaliev's Dev Card"/></a>
+<a href="https://app.daily.dev/bsuimaliev"><img align="right" src="https://api.daily.dev/devcards/71d6cf8f83cb45c8b08ad6360fa48050.png?r=xvc" width="400" alt="Bair Suimaliev's Dev Card"/></a>
 
 ### 🛠️Languages, Tools, and Frameworks:
 <img align="left" alt="C++" width="22px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
