@@ -28,3 +28,5 @@
 
 [linkedin]: https://www.linkedin.com/in/bair-suimaliev-9981251b6/
 [instagram]: https://www.instagram.com/bb.suimaliev/
+
+<a href="https://app.daily.dev/bsuimaliev"><img src="https://api.daily.dev/devcards/71d6cf8f83cb45c8b08ad6360fa48050.png?r=xvc" width="400" alt="Bair Suimaliev's Dev Card"/></a>
