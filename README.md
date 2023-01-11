@@ -7,7 +7,7 @@
 - 🔭 I'm currently studying at Seneca College
 - 🌱 I’m currently learning C++, JS, React, Next.js, Three.js, Chakra UI
 - 💻 I’m looking to land a job or internship
-- 🥅 2022 Goals: graduate college, and get my first work experience
+- 🥅 2023 Goals: get a new job as a Web Developer
 - ⚡ Fun fact: I love to play basketball and video games
 
 ### 🛠️Languages, Tools, and Frameworks:
